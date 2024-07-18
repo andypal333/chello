@@ -9,3 +9,5 @@ gcc main.c
 ```bash
 ./a.out
 ```
+
+output: `Hello World`
